@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Copy of Listen and Choose a Response",
+  "description": "An interactive quiz designed to test your ability to understand a short, spoken question or statement and select the most appropriate response from a list of options. This app uses AI to generate both the spoken questions and the quiz content, providing a unique experience each time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
